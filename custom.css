@@ -1,0 +1,11 @@
+.live-text {
+    display: none !important;
+}
+
+.live-info {
+    display: none !important;
+}
+
+button[aria-label="fullscreen"] {
+    display: none !important;
+}
