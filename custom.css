@@ -17,3 +17,8 @@ button[aria-label="fullscreen"] {
 .dvr-controls[data-dvr-controls] .live-button:before {    
     display: none !important; 
 }
+
+button[aria-label="к прямому эфиру"] {
+    display: none !important; 
+}
+   
