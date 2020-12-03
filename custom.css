@@ -21,4 +21,8 @@ button[aria-label="fullscreen"] {
 button[aria-label="к прямому эфиру"] {
     display: none !important; 
 }
+
+aria-label="back to live" {
+    display: none !important; 
+}
    
