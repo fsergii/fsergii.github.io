@@ -13,3 +13,7 @@ button[aria-label="fullscreen"] {
 .settings_menu[data-settings-menu]>.container .section .label {
     display: none !important;
 }
+
+.dvr-controls[data-dvr-controls] .live-button:before {    
+    display: none !important; 
+}
