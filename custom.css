@@ -22,7 +22,7 @@ button[aria-label="к прямому эфиру"] {
     display: none !important; 
 }
 
-aria-label="back to live" {
+button[aria-label="back to live"] {
     display: none !important; 
 }
    
