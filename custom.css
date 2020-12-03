@@ -10,6 +10,6 @@ button[aria-label="fullscreen"] {
     display: none !important;
 }
 
-#level-selector-id .label {
+.settings_menu[data-settings-menu]>.container .section .label {
     display: none !important;
 }
