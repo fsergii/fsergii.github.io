@@ -1,0 +1,7 @@
+.lang_holder {
+    right: 0 !important;
+}
+
+.lang_holder > div{
+    background-color: red !important;
+}
