@@ -6,9 +6,9 @@
     border: none !important;
 }
 
-.lang_holder > div.active {
+/* .lang_holder > div.active {
     border: 2px dashed #77610f !important;
-}
+} */
 
 .Iframe_body .lang_arrow {
     background-color: red !important;
