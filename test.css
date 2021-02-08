@@ -1,5 +1,9 @@
-.lang_holder {
+/* .lang_holder {
     right: 0 !important;
+} */
+
+.Iframe_body .lang_arrow {
+    background-color: red !important;
 }
 
 .lang_holder > div{
