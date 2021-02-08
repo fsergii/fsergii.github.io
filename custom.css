@@ -13,3 +13,16 @@ button[aria-label="fullscreen"] {
 .settings_menu[data-settings-menu]>.container .section .label {
     display: none !important;
 }
+
+.dvr-controls[data-dvr-controls] .live-button:before {    
+    display: none !important; 
+}
+
+button[aria-label="к прямому эфиру"] {
+    display: none !important; 
+}
+
+button[aria-label="back to live"] {
+    display: none !important; 
+}
+   
